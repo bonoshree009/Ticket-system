@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "User unable to log into account due to password error.",
+    "customer": "Alice Johnson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-10"
+  },
+  {
+    "id": 2,
+    "title": "Payment Failure",
+    "description": "Payment gateway showing timeout error.",
+    "customer": "Robert Brown",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-10-09"
+  },
+  {
+    "id": 3,
+    "title": "Slow Loading",
+    "description": "Website takes too long to load on mobile devices.",
+    "customer": "Sarah Khan",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-10-08"
+  },
+  {
+    "id": 4,
+    "title": "Missing Data",
+    "description": "Customer report shows missing entries.",
+    "customer": "David Lee",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2025-10-07"
+  },
+  {
+    "id": 5,
+    "title": "UI Bug",
+    "description": "Dropdown menu overlaps footer section.",
+    "customer": "Emma Wilson",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-10-10"
+  },
+  {
+    "id": 6,
+    "title": "Email Not Sent",
+    "description": "Confirmation email not received after signup.",
+    "customer": "John Smith",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-10-06"
+  },
+  {
+    "id": 7,
+    "title": "Account Locked",
+    "description": "Account locked after multiple failed attempts.",
+    "customer": "Priya Das",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2025-10-05"
+  },
+  {
+    "id": 8,
+    "title": "Broken Link",
+    "description": "“Contact Us” link leads to 404 page.",
+    "customer": "Carlos Perez",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-10-09"
+  },
+  {
+    "id": 9,
+    "title": "App Crash",
+    "description": "Mobile app crashes after update.",
+    "customer": "Sofia Ahmed",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-10-11"
+  },
+  {
+    "id": 10,
+    "title": "Missing Invoice",
+    "description": "Customer unable to download last month’s invoice.",
+    "customer": "Michael Green",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-10-08"
+  },
+  {
+    "id": 11,
+    "title": "Notification Delay",
+    "description": "Push notifications not received in time.",
+    "customer": "Hannah Park",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-10-04"
+  },
+  {
+    "id": 12,
+    "title": "Feature Request",
+    "description": "Add dark mode option to dashboard.",
+    "customer": "Jacob White",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-10-11"
+  },
+  {
+    "id": 13,
+    "title": "Data Sync Error",
+    "description": "App not syncing with cloud database.",
+    "customer": "Olivia Turner",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-10-09"
+  },
+  {
+    "id": 14,
+    "title": "Password Reset Not Working",
+    "description": "Password reset link expired instantly.",
+    "customer": "Ethan Moore",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-10-12"
+  },
+  {
+    "id": 15,
+    "title": "Search Function Error",
+    "description": "Search returns no results even for valid queries.",
+    "customer": "Lily Patel",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025-10-13"
+  }
+]
