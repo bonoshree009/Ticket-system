@@ -1,5 +1,5 @@
 .box{
-    height: 250px;
+    height: 350px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -8,5 +8,7 @@
     font-size: larger;
     font-weight: bold;
     border-radius: 8px;
+    
+
 }
    

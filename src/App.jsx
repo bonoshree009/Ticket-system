@@ -18,7 +18,7 @@ const promise = fetchitems()
   return (
     <>
      <Navbar></Navbar>
-    <Suspense fallback={"data Loading ..."}> <Body promise={promise}></Body></Suspense>
+    <Suspense fallback={<p className='text-center text-4xl my-6 text-green-800 font-bold'> data loading....</p>}> <Body promise={promise}></Body></Suspense>
      <Footer></Footer>
       
     </>
