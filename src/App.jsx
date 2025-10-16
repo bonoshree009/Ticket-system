@@ -6,6 +6,7 @@ import Footer from './components/Footer'
 import Navbar from './components/Navbar'
 
 
+
    const fetchitems = async()=>{
         const res= await fetch('/data.json')
     return res.json()
