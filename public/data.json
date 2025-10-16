@@ -13,7 +13,7 @@
     "title": "Payment Failure",
     "description": "Payment gateway showing timeout error.",
     "customer": "Robert Brown",
-    "priority": "Critical",
+    "priority": "Medium",
     "status": "In Progress",
     "createdAt": "2025-10-09"
   },
@@ -32,7 +32,7 @@
     "description": "Customer report shows missing entries.",
     "customer": "David Lee",
     "priority": "High",
-    "status": "Resolved",
+    "status": "Open",
     "createdAt": "2025-10-07"
   },
   {
@@ -59,7 +59,7 @@
     "description": "Account locked after multiple failed attempts.",
     "customer": "Priya Das",
     "priority": "High",
-    "status": "Resolved",
+    "status": "In Progress",
     "createdAt": "2025-10-05"
   },
   {
@@ -76,7 +76,7 @@
     "title": "App Crash",
     "description": "Mobile app crashes after update.",
     "customer": "Sofia Ahmed",
-    "priority": "Critical",
+    "priority": "Medium",
     "status": "In Progress",
     "createdAt": "2025-10-11"
   },
@@ -95,7 +95,7 @@
     "description": "Push notifications not received in time.",
     "customer": "Hannah Park",
     "priority": "Low",
-    "status": "Closed",
+    "status": "In Progress",
     "createdAt": "2025-10-04"
   },
   {
@@ -121,7 +121,7 @@
     "title": "Password Reset Not Working",
     "description": "Password reset link expired instantly.",
     "customer": "Ethan Moore",
-    "priority": "Critical",
+    "priority": "Medium",
     "status": "Open",
     "createdAt": "2025-10-12"
   },
@@ -131,7 +131,7 @@
     "description": "Search returns no results even for valid queries.",
     "customer": "Lily Patel",
     "priority": "Medium",
-    "status": "Resolved",
+    "status": "In Progress",
     "createdAt": "2025-10-13"
   }
 ]
